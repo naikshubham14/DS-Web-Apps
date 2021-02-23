@@ -9,3 +9,4 @@
 
 ### Demo
 crypto-eda.herokuapp.com/
+SP500.herokuapp.com/
