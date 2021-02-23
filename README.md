@@ -6,3 +6,6 @@
 * and run following command streamlit run file-name.py
   eg streamlit run crypto-eda.py
   this should open the web app in your local host.
+
+### Demo
+crypto-eda.herokuapp.com/
