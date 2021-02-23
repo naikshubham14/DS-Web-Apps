@@ -8,5 +8,5 @@
   this should open the web app in your local host.
 
 ### Demo
-crypto-eda.herokuapp.com/
-SP500.herokuapp.com/
+* crypto-eda.herokuapp.com/
+* SP500.herokuapp.com/
