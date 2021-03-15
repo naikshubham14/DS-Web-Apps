@@ -1,3 +1,4 @@
+
 import streamlit as st
 from PIL import Image
 import pandas as pd
@@ -148,3 +149,5 @@ elif percent_timeframe == '24h':
     plt.subplots_adjust(top = 1, bottom = 0)
     df_change['percentChange24h'].plot(kind='barh', color=df_change.positive_percentChange24h.map({True: 'g', False: 'r'}))
     col3.pyplot(plt)
+
+
