@@ -8,5 +8,5 @@
   this should open the web app in your local host.
 
 ### Demo
-* [Crypto EDA](crypto-eda.herokuapp.com/)
+* [Crypto EDA](https://crypto-eda.herokuapp.com/)
 * [Auto ML](https://automated-ml.herokuapp.com/)
